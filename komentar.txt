@@ -1,0 +1,2 @@
+Implementacija igrice se nalazi u sprite_anim.c fajlu.
+yt link https://www.youtube.com/watch?v=LPaxWHXJQvM
